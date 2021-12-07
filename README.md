@@ -34,7 +34,8 @@ Tabela de conteúdos
 
 - [Dia 1: Sonar Sweep](./01%20-%20Sonar%20Sweep)
 - [Dia 2: Dive!](./02%20-%20Dive)
-- [Dia 3: Binary Diagnostic](./03%20-%20Binary%20Diagnostic) 
+- [Dia 3: Binary Diagnostic](./03%20-%20Binary%20Diagnostic)
+- [Dia 4: Giant Squid](./04%20-%20Giant%20Squid)
 
 ## 🚀 Como executar o projeto
 
