@@ -1,4 +1,16 @@
 {
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "Challenge resolution",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "adventofcode-2021"
+  },
+  "author": "Juliana Morikoshi",
+  "license": "MIT",
   "devDependencies": {
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
