@@ -37,6 +37,7 @@ Tabela de conteúdos
 - [Dia 3: Binary Diagnostic](./03%20-%20Binary%20Diagnostic)
 - [Dia 4: Giant Squid](./04%20-%20Giant%20Squid)
 - [Dia 5: Hydrothermal Vents](./05%20-%20Hydrothermal%20Venture)
+- [Dia 6: Lanternfish](./06%20-%20Lanternfish)
 
 ## 🚀 Como executar o projeto
 
